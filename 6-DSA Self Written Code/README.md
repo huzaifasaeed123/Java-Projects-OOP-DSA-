@@ -48,10 +48,4 @@ This project is a comprehensive collection of self-written code related to vario
 - **Custom Logic and Design**: All code and logic are self-prepared and custom designed.
 - **Focus on Trees and Graphs**: Special emphasis on complex data structures such as trees and graphs.
 
-## Screenshots
-
-### Directory Structure
-
-![Directory Structure](path/to/screenshot.png)
-
 Thank you for checking out this project! Feel free to contribute or reach out if you have any questions.
