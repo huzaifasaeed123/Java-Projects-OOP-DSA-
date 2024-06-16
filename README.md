@@ -13,10 +13,13 @@ This project is a Java-based Attendance Management System with two main function
 
 - **Functionality**: 
   - **Select date and section.**
+    
    ![image](https://github.com/huzaifasaeed123/Java-Projects-OOP-DSA-/assets/143410512/44a5e4a2-e801-4363-84b0-bd9a2550eb3b)
   - **Take attendance for registered students.**
+    
    ![image](https://github.com/huzaifasaeed123/Java-Projects-OOP-DSA-/assets/143410512/23b8788f-bd36-42ec-a469-4839b819b3a6)
   - **Save attendance details in a text file.**
+    
    ![image](https://github.com/huzaifasaeed123/Java-Projects-OOP-DSA-/assets/143410512/85090763-0a83-4e85-bf12-66157c21fe0e)
 ### Update Previous Attendance
 
