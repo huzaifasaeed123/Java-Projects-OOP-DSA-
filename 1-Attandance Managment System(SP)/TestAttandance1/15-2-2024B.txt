@@ -1,0 +1,10 @@
+FA21-BCS-001,Amal Abbas,P
+FA21-BCS-002,Mahsooma Zainab,P
+FA21-BCS-003,Zarish Jameel,P
+FA21-BCS-004,Eman Abbasi,P
+FA21-BCS-005,Mahnoor ,A
+FA21-BCS-011,Faitama GUL,P
+FA21-BCS-017,Maria Adil,P
+FA21-BCS-020,Ayesha,P
+FA21-BCS-021,Dua Zahra ,P
+FA21-BCS-022,Hira Basit,P

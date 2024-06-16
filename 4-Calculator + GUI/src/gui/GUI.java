@@ -17,12 +17,12 @@ public class GUI {
 //        String num1=JOptionPane.showInputDialog("Enter 1st Integer");
 //        String num2=JOptionPane.showInputDialog("Enter 2nd Integer");
 //        JOptionPane.showMessageDialog(null,"The Huzaifa","sum of tow number",JOptionPane.PLAIN_MESSAGE);
-        AdvancedCalculator abc1=new AdvancedCalculator();
-        abc1.display();
+//        AdvancedCalculator abc1=new AdvancedCalculator();
+//        abc1.display();
 //         MainFrame abc2=new MainFrame();
 //      abc2.display();
-//         Calculator abc3=new Calculator();
-//        abc3.display();
+         Calculator abc3=new Calculator();
+        abc3.display();
         //System.out.println("fgyuiekd");
 //        JCHECKBOX check=new JCHECKBOX();
 //        check.display();
